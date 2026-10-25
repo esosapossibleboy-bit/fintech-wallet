@@ -1,0 +1,9 @@
+{
+  "name": "fintech-frontend",
+  "version": "1.0.0",
+  "description": "Secure MERN Frontend Engine Core Validation",
+  "main": "test-client.js",
+  "scripts": {
+    "test:client": "node test-client.js"
+  }
+}
